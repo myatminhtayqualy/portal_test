@@ -1,0 +1,13 @@
+node_modules/
+.wrangler/
+.dev.vars
+.env
+.env.*
+!.env.example
+!.dev.vars.example
+cookies.txt
+register.json
+test.png
+dist/
+*.log
+.DS_Store
